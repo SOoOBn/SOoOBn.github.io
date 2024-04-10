@@ -276,12 +276,18 @@ article {
 .photo-title {
   text-align: center;
 }
-.photo-img {
+.photo-insta {
   text-align: center;
-  padding-bottom: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(82, 159, 243);
 }
 
-.photo-img a:hover {
+.photo-insta a {
+  color: white;
+}
+
+.photo-insta a:hover {
   color:rgb(230, 84, 84)
 }
 
