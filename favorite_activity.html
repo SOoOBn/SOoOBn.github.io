@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>자기소개 페이지 | Favorite</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="favorite">
+    <header class="page-header wrapper">
+      <h1><a href="home.html"><img class="logo" src="img/그림1.png" alt="조수빈"></a></h1>
+      <nav>
+        <ul class="main-nav">
+          <li><a href="aboutme.html">About me</a></li>
+          <li><a href="favorite.html">Favorite</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="wrapper">
+      <h2 class="favorite-title">Favorite</h2>
+    </div>
+  </div>
+
+  <div class="favorite-contents">
+    <article> 
+      <div class="post-info">
+        <div class="post-title">좋아하는 활동</div>
+        <div class="post-content">
+          <ul id="post-list">
+            <li>영화 보기</li>
+              <ul id="sub-list">
+                <li>로맨스</li>
+                <li>코미디</li>
+                <li>범죄</li>
+                <li>스릴러</li>
+                <li>뮤지컬</li>
+                <li>애니메이션</li>
+              </ul>
+            <li>잠 자기</li>
+            <li>산책하기</li>
+            <li>책 읽기</li>
+            <li>축구 보기</li>
+              <ul id="sub-list">
+                <div onclick="move2()"><li id="kk"><a>K 리그 직관</a></li></div>
+                <script src="move.js"></script>
+              </ul>
+          </ul>    
+        </div> 
+      </div>
+    </article>
+    <aside>
+      <h3 class="sub-title">Category</h3>
+      <ul class="sub-menu">
+          <li><a href="favorite_song.html">Song</a></li>
+          <li><a href="favorite_movie.html">Movie</a></li>
+          <li><a href="favorite_food.html">Food</a></li>
+          <li><a href="favorite_activity.html">Activity</a></li>
+        </ul>
+    </aside>
+  </div>
+</body>
+</html>
