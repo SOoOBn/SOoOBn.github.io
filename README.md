@@ -1,5 +1,3 @@
 # SOoOBn.github.io
 
-<img width="609" alt="image" src="https://github.com/SOoOBn/SOoOBn.github.io/assets/114134129/1e4da9db-c89f-450b-a548-4454c3e2b2c2">
-
-[자기소개 페이지.pdf](https://github.com/SOoOBn/SOoOBn.github.io/files/14928448/default.pdf)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUzic9kyDVNjYrKLZoiILpD%2F%25EC%259E%2590%25EA%25B8%25B0%25EC%2586%258C%25EA%25B0%259C-%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DE44MeKNrv2TnJPe6-1" allowfullscreen></iframe>
